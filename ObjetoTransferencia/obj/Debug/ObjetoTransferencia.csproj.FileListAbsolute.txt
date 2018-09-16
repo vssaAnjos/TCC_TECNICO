@@ -1,0 +1,64 @@
+C:\Users\ALUNO\Desktop\TccJogo3\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\ALUNO\Desktop\TccJogo3\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\ALUNO\Desktop\TccJogo3\ObjetoTransferencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUNO\Desktop\TccJogo3\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\ALUNO\Desktop\TccJogo3\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\ALUNO\Documents\TccJogo3.2\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\ALUNO\Documents\TccJogo3.2\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\ALUNO\Documents\TccJogo3.2\ObjetoTransferencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUNO\Documents\TccJogo3.2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\ALUNO\Documents\TccJogo3.2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+E:\TccJogo3.3\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+E:\TccJogo3.3\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+E:\TccJogo3.3\ObjetoTransferencia\obj\Debug\ResolveAssemblyReference.cache
+E:\TccJogo3.3\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+E:\TccJogo3.3\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\ALUNO\Desktop\TccJogo3.3\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\ALUNO\Desktop\TccJogo3.3\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\ALUNO\Desktop\TccJogo3.3\ObjetoTransferencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUNO\Desktop\TccJogo3.3\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\ALUNO\Desktop\TccJogo3.3\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\ALUNO\Desktop\TccJogo3.6\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\ALUNO\Desktop\TccJogo3.6\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\ALUNO\Desktop\TccJogo3.6\ObjetoTransferencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUNO\Desktop\TccJogo3.6\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\ALUNO\Desktop\TccJogo3.6\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\Pedro\Documents\TCC PROJETO\TccJogo3.7 COM TESTE\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Pedro\Documents\TCC PROJETO\TccJogo3.7 COM TESTE\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Pedro\Documents\TCC PROJETO\TccJogo3.7 COM TESTE\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\Pedro\Documents\TCC PROJETO\TccJogo3.7 COM TESTE\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\ALUNO\Desktop\TccJogo3.8 COM TESTE\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\ALUNO\Desktop\TccJogo3.8 COM TESTE\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\ALUNO\Desktop\TccJogo3.8 COM TESTE\ObjetoTransferencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUNO\Desktop\TccJogo3.8 COM TESTE\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\ALUNO\Desktop\TccJogo3.8 COM TESTE\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\Pedro\Desktop\TccJogo 4 CAD E TESTE\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TccJogo 4 CAD E TESTE\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\Pedro\Desktop\TccJogo 4 CAD E TESTE\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\Pedro\Desktop\TccJogo 4 CAD E TESTE\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Pedro\Desktop\TccJogo 4 CAD E TESTE\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\ALUNO\Desktop\TccJogo 4 CAD E TESTE\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\ALUNO\Desktop\TccJogo 4 CAD E TESTE\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\ALUNO\Desktop\TccJogo 4 CAD E TESTE\ObjetoTransferencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUNO\Desktop\TccJogo 4 CAD E TESTE\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\ALUNO\Desktop\TccJogo 4 CAD E TESTE\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\ALUNO\Downloads\TccJogo 4.2.1\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\ALUNO\Downloads\TccJogo 4.2.1\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\ALUNO\Downloads\TccJogo 4.2.1\ObjetoTransferencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUNO\Downloads\TccJogo 4.2.1\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\ALUNO\Downloads\TccJogo 4.2.1\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\Usuario\Desktop\TccJogo 4.3\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Usuario\Desktop\TccJogo 4.3\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Usuario\Desktop\TccJogo 4.3\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\TccJogo 4.3\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\Usuario\Desktop\TccJogo 4.3\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+H:\TccJogo 4.4\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+H:\TccJogo 4.4\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+H:\TccJogo 4.4\ObjetoTransferencia\obj\Debug\ResolveAssemblyReference.cache
+H:\TccJogo 4.4\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+H:\TccJogo 4.4\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\ALUNO\Downloads\TccJogo 4.4\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\ALUNO\Downloads\TccJogo 4.4\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\ALUNO\Downloads\TccJogo 4.4\ObjetoTransferencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUNO\Downloads\TccJogo 4.4\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\ALUNO\Downloads\TccJogo 4.4\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb

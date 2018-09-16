@@ -1,0 +1,65 @@
+C:\Users\ALUNO\Desktop\TccJogo3\AcessoBD\bin\Debug\AcessoBD.dll.config
+C:\Users\ALUNO\Desktop\TccJogo3\AcessoBD\bin\Debug\AcessoBD.dll
+C:\Users\ALUNO\Desktop\TccJogo3\AcessoBD\bin\Debug\AcessoBD.pdb
+C:\Users\ALUNO\Desktop\TccJogo3\AcessoBD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUNO\Desktop\TccJogo3\AcessoBD\obj\Debug\AcessoBD.dll
+C:\Users\ALUNO\Desktop\TccJogo3\AcessoBD\obj\Debug\AcessoBD.pdb
+C:\Users\ALUNO\Documents\TccJogo3.2\AcessoBD\bin\Debug\AcessoBD.dll.config
+C:\Users\ALUNO\Documents\TccJogo3.2\AcessoBD\bin\Debug\AcessoBD.dll
+C:\Users\ALUNO\Documents\TccJogo3.2\AcessoBD\bin\Debug\AcessoBD.pdb
+C:\Users\ALUNO\Documents\TccJogo3.2\AcessoBD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUNO\Documents\TccJogo3.2\AcessoBD\obj\Debug\AcessoBD.dll
+C:\Users\ALUNO\Documents\TccJogo3.2\AcessoBD\obj\Debug\AcessoBD.pdb
+E:\TccJogo3.3\AcessoBD\bin\Debug\AcessoBD.dll.config
+E:\TccJogo3.3\AcessoBD\bin\Debug\AcessoBD.dll
+E:\TccJogo3.3\AcessoBD\bin\Debug\AcessoBD.pdb
+E:\TccJogo3.3\AcessoBD\obj\Debug\ResolveAssemblyReference.cache
+E:\TccJogo3.3\AcessoBD\obj\Debug\AcessoBD.dll
+E:\TccJogo3.3\AcessoBD\obj\Debug\AcessoBD.pdb
+C:\Users\ALUNO\Desktop\TccJogo3.3\AcessoBD\bin\Debug\AcessoBD.dll.config
+C:\Users\ALUNO\Desktop\TccJogo3.3\AcessoBD\bin\Debug\AcessoBD.dll
+C:\Users\ALUNO\Desktop\TccJogo3.3\AcessoBD\bin\Debug\AcessoBD.pdb
+C:\Users\ALUNO\Desktop\TccJogo3.3\AcessoBD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUNO\Desktop\TccJogo3.3\AcessoBD\obj\Debug\AcessoBD.dll
+C:\Users\ALUNO\Desktop\TccJogo3.3\AcessoBD\obj\Debug\AcessoBD.pdb
+C:\Users\ALUNO\Desktop\TccJogo3.6\AcessoBD\bin\Debug\AcessoBD.dll.config
+C:\Users\ALUNO\Desktop\TccJogo3.6\AcessoBD\bin\Debug\AcessoBD.dll
+C:\Users\ALUNO\Desktop\TccJogo3.6\AcessoBD\bin\Debug\AcessoBD.pdb
+C:\Users\ALUNO\Desktop\TccJogo3.6\AcessoBD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUNO\Desktop\TccJogo3.6\AcessoBD\obj\Debug\AcessoBD.dll
+C:\Users\ALUNO\Desktop\TccJogo3.6\AcessoBD\obj\Debug\AcessoBD.pdb
+C:\Users\ALUNO\Desktop\TccJogo3.8 COM TESTE\AcessoBD\bin\Debug\AcessoBD.dll.config
+C:\Users\ALUNO\Desktop\TccJogo3.8 COM TESTE\AcessoBD\bin\Debug\AcessoBD.dll
+C:\Users\ALUNO\Desktop\TccJogo3.8 COM TESTE\AcessoBD\bin\Debug\AcessoBD.pdb
+C:\Users\ALUNO\Desktop\TccJogo3.8 COM TESTE\AcessoBD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUNO\Desktop\TccJogo3.8 COM TESTE\AcessoBD\obj\Debug\AcessoBD.dll
+C:\Users\ALUNO\Desktop\TccJogo3.8 COM TESTE\AcessoBD\obj\Debug\AcessoBD.pdb
+C:\Users\ALUNO\Desktop\TccJogo 4 CAD E TESTE\AcessoBD\bin\Debug\AcessoBD.dll.config
+C:\Users\ALUNO\Desktop\TccJogo 4 CAD E TESTE\AcessoBD\bin\Debug\AcessoBD.dll
+C:\Users\ALUNO\Desktop\TccJogo 4 CAD E TESTE\AcessoBD\bin\Debug\AcessoBD.pdb
+C:\Users\ALUNO\Desktop\TccJogo 4 CAD E TESTE\AcessoBD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUNO\Desktop\TccJogo 4 CAD E TESTE\AcessoBD\obj\Debug\AcessoBD.dll
+C:\Users\ALUNO\Desktop\TccJogo 4 CAD E TESTE\AcessoBD\obj\Debug\AcessoBD.pdb
+C:\Users\ALUNO\Downloads\TccJogo 4.2.1\AcessoBD\bin\Debug\AcessoBD.dll.config
+C:\Users\ALUNO\Downloads\TccJogo 4.2.1\AcessoBD\bin\Debug\AcessoBD.dll
+C:\Users\ALUNO\Downloads\TccJogo 4.2.1\AcessoBD\bin\Debug\AcessoBD.pdb
+C:\Users\ALUNO\Downloads\TccJogo 4.2.1\AcessoBD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUNO\Downloads\TccJogo 4.2.1\AcessoBD\obj\Debug\AcessoBD.dll
+C:\Users\ALUNO\Downloads\TccJogo 4.2.1\AcessoBD\obj\Debug\AcessoBD.pdb
+C:\Users\Usuario\Desktop\TccJogo 4.3\AcessoBD\bin\Debug\AcessoBD.dll.config
+C:\Users\Usuario\Desktop\TccJogo 4.3\AcessoBD\bin\Debug\AcessoBD.dll
+C:\Users\Usuario\Desktop\TccJogo 4.3\AcessoBD\bin\Debug\AcessoBD.pdb
+C:\Users\Usuario\Desktop\TccJogo 4.3\AcessoBD\obj\Debug\AcessoBD.dll
+C:\Users\Usuario\Desktop\TccJogo 4.3\AcessoBD\obj\Debug\AcessoBD.pdb
+H:\TccJogo 4.4\AcessoBD\bin\Debug\AcessoBD.dll.config
+H:\TccJogo 4.4\AcessoBD\bin\Debug\AcessoBD.dll
+H:\TccJogo 4.4\AcessoBD\bin\Debug\AcessoBD.pdb
+H:\TccJogo 4.4\AcessoBD\obj\Debug\ResolveAssemblyReference.cache
+H:\TccJogo 4.4\AcessoBD\obj\Debug\AcessoBD.dll
+H:\TccJogo 4.4\AcessoBD\obj\Debug\AcessoBD.pdb
+C:\Users\ALUNO\Downloads\TccJogo 4.4\AcessoBD\bin\Debug\AcessoBD.dll.config
+C:\Users\ALUNO\Downloads\TccJogo 4.4\AcessoBD\bin\Debug\AcessoBD.dll
+C:\Users\ALUNO\Downloads\TccJogo 4.4\AcessoBD\bin\Debug\AcessoBD.pdb
+C:\Users\ALUNO\Downloads\TccJogo 4.4\AcessoBD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUNO\Downloads\TccJogo 4.4\AcessoBD\obj\Debug\AcessoBD.dll
+C:\Users\ALUNO\Downloads\TccJogo 4.4\AcessoBD\obj\Debug\AcessoBD.pdb
